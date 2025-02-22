@@ -2,8 +2,8 @@
 
 
 ## 🔥 Experience
-- LG Electronics (2024.07~) : Telematics Middleware SW Engineer
-- Hyundai Autoever (2023.01~2024.03) : BMS(Battery Management System) BSW Engineer
+- LG Electronics (2024.07~) : Telematics Middleware SW Engineer (Embedded Linux)
+- Hyundai Autoever (2023.01~2024.03) : BMS(Battery Management System) BSW Engineer (MCU Firmware)
 
 ## 🎓 Education
 - KAU
