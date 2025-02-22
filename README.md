@@ -21,7 +21,10 @@
 
 ### Tools
 <p>
-<!-- Git --><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<!-- <img src=""/> -->
+<!-- Git -->    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<!-- Docker --> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<!-- JIRA -->  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terryjwyoon)](https://github.com/terryjwyoon/github-readme-stats) -->
